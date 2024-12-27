@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Budget Tracker</title>
+    
 </head>
 <body>
     <h1>Budget Tracker</h1>
@@ -26,7 +26,5 @@ Enter source: Salary
 Enter date (YYYY-MM-DD): 2024-12-27
 Income added successfully!
 </code>
-    </pre>
-    </ul>
-</body>
+
 </html>
